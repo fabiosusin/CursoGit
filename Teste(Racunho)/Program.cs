@@ -14,6 +14,7 @@ namespace Teste_Racunho_
             Console.WriteLine("Tetas testando!");
             Console.WriteLine("Teste 2");
             Console.WriteLine("Nova mensagem");
+            Console.WriteLine("Criando um novo teste");
 
         }
     }

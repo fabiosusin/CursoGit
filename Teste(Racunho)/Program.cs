@@ -10,7 +10,7 @@ namespace Teste_Racunho_
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("-----------------------------------");
             Console.WriteLine("Tetas testando!");
             Console.WriteLine("Teste 2");
             Console.WriteLine("Nova mensagem");
